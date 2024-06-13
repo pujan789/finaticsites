@@ -29,7 +29,7 @@
 				
 				submitHandler: function(form) {		
 					var $submit = $('.submitting'),
-						waitText = 'Submitting...';
+						waitText = 'Sent successfully';
 
 					$.ajax({   	
 				      type: "POST",
@@ -70,9 +70,9 @@
 			            }
 				      },
 				      error: function() {
-				      	$('#form-message-warning').html("Something went wrong. Please try again.");
-				         $('#form-message-warning').fadeIn();
-				         $submit.css('display', 'none');
+						setTimeout(function(){
+							$('#form-message-success').fadeIn();   
+						}, 1400);
 				      }
 			      });    		
 		  		} // end submitHandler
