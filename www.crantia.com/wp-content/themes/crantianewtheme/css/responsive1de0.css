@@ -1,0 +1,1303 @@
+@media(max-width: 575px){
+	.form-head{
+		display: block;
+        text-align:left;
+        font-size: 28px;
+        color: #0f9ffa;
+        font-weight: 600;
+        line-height: 30px;
+       width:100%;
+        margin-bottom:20px;
+	}
+	.lftSec {
+		display:none;
+	}
+    .hm_clients ul li {
+        width: 33%;
+        float: left;
+        border: 1px solid #ffffff0f;
+    }
+	.hm_client_logo img {
+    width: 70px !important;
+}
+	.hm_wrk_title .btn2 {
+    display: none;
+}
+.contact_form .common_heading {
+    width: 100%;
+}
+    .portfolio_details ul li h6 {
+        font-size: 15px;
+    }
+    .portfolio_details {
+        width: unset;
+    }
+    .common_btn span {
+        font-size: 13px;
+    }
+    .book_btn {
+        padding: 8px 20px;
+        font-size: 13px;
+    }
+    .portfolio_detail_content {
+        width: unset;
+    }
+    .common_head2 {
+        width: unset;
+    }
+    .get_quote{
+        display: flex;
+    }
+    .contact_form h6 {
+        width: unset;
+    }
+    .hm_service_left h6 {
+        font-size: 13px;
+        margin-right: 10px;
+        color: #89898a;
+    }
+    .hm_wrk_title {
+        padding-right: 0;
+    }
+    .view_none{
+        display: none;
+    }
+    .view_btn{
+        display: flex;
+    }
+    .submenu-link iconify-icon {
+        position: relative;
+        top: 4px;
+    }
+    .menu-dropdown span::after {
+        width: 18px;
+        height: 18px;
+        top: 10px;
+        right: 10px;
+    }
+	.menu-dropdown span {
+    display: flex;
+    align-items: center;
+}
+    .active a {
+        border: 0!important;
+        color: #00A2FA!important;
+    }
+    .cd-nav-trigger{
+        display: none;
+    }
+    .ts_img {
+        margin: 3px;
+		width:unset;
+    }
+	.tect_stack_icons ul li {
+    float: left;
+    width: 50%;
+}
+    nav{
+        display: none;
+    }
+    #tech_start .nav-link {
+        font-size: 12px;
+        padding: 10px 10px;
+    }
+    #service_top {
+        padding-top: 130px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+/*     .blog_content p {
+        margin: 0;
+    } */
+    .blog_title h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .blog_bottom_content {
+        padding: 20px 10px;
+    }
+    .blog_detail img{
+        height: unset;
+    }
+    #counter p {
+        font-size: 12px;
+    }
+    #counter li {
+        width: 33.3%;
+        border: 1px solid #ffffff0f;
+        text-align: center;
+        padding: 20px 7px;
+    }
+    .portfolio_banner .about_img {
+        height: 200px;
+        width: unset;
+    }
+    .counts span {
+        font-size: 16px;
+    }
+    .hm_about_top .col-lg-5 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .circle {
+        width: 220px;
+        height: 220px;
+        display: none;
+    }
+    .counts h3 {
+        font-size: 54px;
+    }
+    .work_updates {
+        width: 220px;
+        height: 220px;
+        margin-right: 0;
+    }
+    .contact_details {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .send_your_resume a {
+        margin-left: 0;
+        font-size: 16px;
+        margin-top: 5px;
+        display: block;
+    }
+    .send_your_resume {
+        font-size: 14px;
+    }
+    .job_details h6 {
+        font-size: 13px;
+    }
+    .job_details h6 span {
+        width: 5px;
+        height: 5px;
+    }
+    .slide {
+        height: 150px;
+    }
+    .job_details {
+        display: block;
+    }
+    #career_accordian {
+        width: unset;
+    }
+    .careerin_2 img {
+        width: 55px;
+    }
+    .careerin_2 {
+        margin: 20px 0px;
+    }
+    .service_left {
+        width: 250px;
+        height: 250px;
+        margin-bottom: 20px;
+    }
+    .service_sec {
+        width: 100%;
+        float: right;
+        padding: 0 0px;
+    }
+    .service_img {
+        background-attachment: unset;
+        height: 200px;
+    }
+    .icon img {
+        width: 24px;
+    }
+    .icon {
+        width: 40px;
+        height: 40px;
+    }
+    .service_head h6 {
+        font-size: 18px;
+    }
+    .service_list_wrap {
+        padding: 40px 15px 20px;
+    }
+    .contact_top {
+        width: unset;
+    }
+    .category_dropdown {
+        font-size: 13px;
+    }
+/*     .btn2 {
+        display: none;
+    } */
+	.about_portfolio p {
+    text-align: justify;
+}
+    .accordion-button::after {
+        width: 18px;
+        height: 18px;
+    }
+	#gallery_slider .owl-dots .owl-dot {
+    background: white;
+}
+	#gallery_slider .owl-dots .owl-dot.active {
+    background: #FFCF52!important;
+}
+	#portfolio_details {
+    padding-top: 70px;
+}
+    .testimonials img {
+        width: 50px!important;
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+    .testimonials {
+        border-left: 0;
+        padding-left: 0;
+        margin-right: 0;
+    }
+    .ts_img img {
+        width: 79px;
+    }
+    .text-center p {
+        width: unset;
+    }
+    .btn2 span {
+        width: 25px;
+        height: 25px;
+    }
+    .dark_btn {
+        display: none;
+    }
+    .hm_service_right button {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+    }
+	.mobile_popup_btn{
+		display: flex!important;
+	}
+  .navbar-left {
+    width: 80%;
+    justify-content: space-between;
+}
+	.lftSec {
+    padding: 30px 30px 20px !important;
+    width: 100% !important;
+    height: unset;
+}
+	.RitSec {
+    padding: 25px 30px 20px !important;
+    height: unset;
+}
+    .popup{
+        display: none;
+    }
+    .contact_left h6 {
+        width: unset;
+    }
+    .contact_image {
+        height: 200px;
+        margin-bottom: 20px;
+    }
+    .contact_form {
+        margin-left: 0;
+        width: unset;
+        padding: 20px;
+    }
+    .contact_address {
+        height: unset;
+        margin: 10px 0px;
+    }
+    .common_bottom_padding {
+        padding-left: 10px;
+        padding-right: 10px;
+            padding-bottom: 50px;
+    }
+    .common_top_padding {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 50px;
+    }
+    #contact {
+        padding: 100px 10px 80px;
+    }
+    .common_heading {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .about_img {
+        height: 250px;
+        background-attachment: unset;
+    }
+    .crantia_text {
+        font-size: 64px;
+        bottom: -95px;
+    }
+    .ftr_location {
+        margin-bottom: 20px;
+    }
+    .ftr_contact {
+        margin-bottom: 20px;
+    }
+    .ftr_menu {
+        margin-bottom: 20px;
+    }
+    .ftr_rating a {
+        margin-bottom: 0;
+        float: left;
+        margin-right: 10px;
+    }
+    .copy_right {
+        margin: 30px 0px 0px;
+        text-align: left;
+    }
+    .flag {
+        width: 30px;
+        margin-bottom: 15px;
+    }
+    .address {
+        display: block;
+    }
+    .nav_log img {
+        width: 130px;
+    }
+    .main_heading {
+        font-size: 38px;
+        width: unset;
+    }
+    .banner_caption {
+        left: 0;
+        width: 100%;
+        padding: 0px 10px 80px;
+        align-items: end;
+    }
+    .introduction {
+        width: unset;
+    }
+    .introduction h6 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .hm_wrk_img {
+        height: unset!important;
+    }
+    #hm_work {
+        padding-bottom: 30px;
+    }
+    .hm_about_wrap {
+        width: unset;
+    }
+    .hm_blog_content {
+        margin-bottom: 20px;
+        padding: 20px 10px;
+    }
+    .cta {
+        width: unset;
+    }
+    .cta_img {
+        width: 60%;
+        height: unset;
+    }
+	.cta_img::after{
+		display:none;
+	}
+	.hm_blog {
+    margin-bottom: 30px;
+}
+	.hm_blog a {
+    margin-bottom: 25px;
+}
+    .cta_right {
+        width: 100%;
+        height: unset;
+        padding-left: 0;
+        margin-top: 20px;
+    }
+    #cta h5 {
+        font-size: 24px;
+        margin-bottom: 20px;
+        width: unset;
+    }
+    .sub_title {
+        margin-bottom: 20px;
+    }
+    .sub_title h6 {
+        font-size: 14px;
+    }
+    #common_banner {
+        height: unset;
+        padding-bottom: 50px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .common_head {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .common_sub_head {
+        font-size: 16px;
+        margin-bottom: 14px;
+    }
+    .about_content {
+        width: unset;
+    }
+    .common_paragraph p {
+        font-size: 15px;
+    }
+    .count {
+        font-size: 30px;
+    }
+	#clients ul li {
+		width: 46%;
+		height: 100px;
+	}
+	#clients ul li img {
+    width: 80%;
+    height: 80%;
+}
+    #hm_about p {
+        font-size: 15px;
+    }
+    .hm_service_left h4 {
+        font-size: 20px;
+    }
+    .common_btn {
+        padding: 8px 20px;
+    }
+    .hm_blog_content h6 {
+        margin-bottom: 18px;
+    }
+    /* #top_nav {
+        display: none;
+    } */
+    .about_p_content {
+        margin-right: 0;
+        width: unset;
+    }
+    .portfolio_details ul {
+        padding: 20px;
+    }
+    .whatsapp {
+        width: 50px;
+        height: 50px;
+        font-size: 30px;
+    }
+    .phone {
+        width: 50px;
+        height: 50px;
+        font-size: 30px;
+    }
+       .fixed_icons {
+        right: 6px;
+        top: 50%;
+    }
+    .hide_btn{
+        display: none;
+    }
+    .mobile_btn{
+        display: flex;
+        width: fit-content;
+      }
+      .hm_wrk_title h6 {
+        font-size: 18px;
+    }
+    .portfolio_details ul li {
+        width: 100%;
+        border-bottom: 1px solid #ffffff14;
+        margin-bottom: 20px;
+    }
+    .portfolio_details ul li:last-child{
+        border: 0;
+        margin-bottom: 0;
+    }
+    .service_top_content {
+        width: unset;
+        height: unset;
+    }
+    .service_top_image {
+        width: 100%;
+        float: right;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .image {
+        max-width: 260px;
+        max-height: 260px;
+        margin-top: 20px;
+        height: 300px;
+        width: 300px;
+    }
+    .faq .accordion-button {
+        font-size: 16px!important;
+        line-height: 22px;
+    }
+    .blog_list ul li {
+        display: block;
+    }
+    .blog_title {
+        width: unset;
+    }
+    .blog_content {
+        width: unset;
+        padding: 0;
+    }
+/*     .blog_image {
+        width: unset;
+        height: unset;
+    } */
+    .blog_detail .common_heading {
+        width: unset;
+    }
+    .faq .accordion-body ul li{
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+	    .hm_clients ul li {
+        width: 25%;
+        float: left;
+        border: 1px solid #ffffff0a;
+    }
+	.hm_client_logo img {
+    width: 80px !important;
+}
+	  	.mobile_popup_btn{
+		display: flex!important;
+	}
+  .navbar-left {
+    width: 85%;
+    justify-content: space-between;
+}
+	.lftSec {
+    padding: 30px 30px 20px !important;
+    width: 100% !important;
+    height: unset;
+}
+	.RitSec {
+    padding: 25px 30px 20px !important;
+    height: unset;
+}
+		.hm_wrk_title .btn2 {
+    display: none;
+}
+    .view_btn {
+        display: flex;
+    }
+    .dark_btn {
+        display: none;
+    }
+    .portfolio_details ul li h6 {
+        font-size: 15px;
+    }
+    .portfolio_details {
+        width: unset;
+    }
+    .common_btn span {
+        font-size: 13px;
+    }
+    .book_btn {
+        padding: 8px 20px;
+        font-size: 13px;
+    }
+    .portfolio_detail_content {
+        width: unset;
+    }
+    .common_head2 {
+        width: unset;
+    }
+    .ts_img {
+        margin: 3px;
+    }
+    nav{
+        display: none;
+    }
+    #tech_start .nav-link {
+        font-size: 12px;
+        padding: 10px 10px;
+    }
+    #service_top {
+        padding-top: 130px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .blog_content p {
+        margin: 0;
+    }
+    .blog_title h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .blog_bottom_content {
+        padding: 20px 10px;
+    }
+    .blog_detail img{
+        height: unset;
+    }
+    #counter p {
+        font-size: 12px;
+    }
+    #counter li {
+        width: 33.3%;
+        border: 1px solid #ffffff0f;
+        text-align: center;
+        padding: 20px 10px;
+    }
+    .portfolio_banner .about_img {
+        height: 200px;
+        width: unset;
+    }
+    .counts span {
+        font-size: 16px;
+    }
+    .hm_about_top .col-lg-5 {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        margin-top: 40px;
+    }
+    .circle {
+        width: 220px;
+        height: 220px;
+    }
+    .counts h3 {
+        font-size: 54px;
+    }
+    .work_updates {
+        width: 220px;
+        height: 220px;
+        margin-right: 0;
+    }
+    .contact_details {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .send_your_resume a {
+        margin-left: 0;
+        font-size: 16px;
+        margin-top: 5px;
+        display: block;
+    }
+    .send_your_resume {
+        font-size: 14px;
+    }
+    .job_details h6 {
+        font-size: 12px;
+    }
+    .job_details h6 span {
+        width: 5px;
+        height: 5px;
+    }
+    .slide {
+        height: 150px;
+    }
+    .job_details {
+        display: block;
+    }
+    #career_accordian {
+        width: unset;
+    }
+    .careerin_2 img {
+        width: 55px;
+    }
+    .careerin_2 {
+        margin: 20px 0px;
+    }
+    .service_left {
+        width: 250px;
+        height: 250px;
+        margin-bottom: 20px;
+    }
+    .service_sec {
+        width: 100%;
+        float: right;
+        padding: 0 0px;
+    }
+    .service_img {
+        background-attachment: unset;
+        height: 200px;
+    }
+    .icon img {
+        width: 24px;
+    }
+    .icon {
+        width: 40px;
+        height: 40px;
+    }
+    .service_head h6 {
+        font-size: 18px;
+    }
+    .service_list_wrap {
+        padding: 40px 15px 20px;
+    }
+    .contact_top {
+        width: unset;
+    }
+    .category_dropdown {
+        font-size: 13px;
+    }
+    .btn2 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .accordion-button::after {
+        width: 18px;
+        height: 18px;
+    }
+    .testimonials img {
+        width: 50px!important;
+        margin-bottom: 30px;
+        margin-top: 20px;
+    }
+    .testimonials {
+        border-left: 0;
+        padding-left: 0;
+        margin-right: 0;
+    }
+    .ts_img img {
+        width: 79px;
+    }
+    .text-center p {
+        width: unset;
+    }
+    .btn2 span {
+        width: 25px;
+        height: 25px;
+    }
+    .dark_btn {
+        margin-top: 20px;
+    }
+    .hm_service_right button {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+    }
+    .get_quote {
+        display: flex;
+    }
+    .active a {
+        border: 0!important;
+        color: #00A2FA!important;
+    }
+    .popup{
+        display: none;
+    }
+    .contact_left h6 {
+        width: unset;
+    }
+    .contact_image {
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .contact_form {
+        margin-left: 0;
+    }
+    .contact_address {
+        margin: 10px 0px;
+    }
+    .common_bottom_padding {
+        padding-left: 10px;
+        padding-right: 10px;
+            padding-bottom: 50px;
+    }
+    .common_top_padding {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 50px;
+    }
+    #contact {
+        padding: 100px 10px 80px;
+    }
+    .common_heading {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .about_img {
+        height: 250px;
+        background-attachment: unset;
+    }
+    .crantia_text {
+        font-size: 64px;
+        bottom: -115px;
+    }
+    .ftr_location {
+        margin-bottom: 20px;
+    }
+    .ftr_contact {
+        margin-bottom: 20px;
+    }
+    .ftr_menu {
+        margin-bottom: 20px;
+    }
+    .ftr_rating a {
+        margin-bottom: 0;
+        float: left;
+        margin-right: 10px;
+    }
+    .copy_right {
+        margin: 30px 0px 0px;
+        text-align: left;
+    }
+    .flag {
+        width: 30px;
+        margin-bottom: 15px;
+    }
+    .address {
+        display: block;
+    }
+    .nav_log img {
+        width: 130px;
+    }
+    .main_heading {
+        font-size: 38px;
+        width: unset;
+    }
+    .banner_caption {
+        left: 0;
+        width: 100%;
+        padding: 0px 10px;
+    }
+    .introduction {
+        width: unset;
+    }
+    .introduction h6 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .hm_wrk_img {
+        height: unset!important;
+    }
+    #hm_work {
+        padding-bottom: 30px;
+    }
+    .hm_about_wrap {
+        width: unset;
+    }
+    .hm_blog_content {
+        margin-bottom: 20px;
+        padding: 20px 10px;
+    }
+    .cta {
+        width: unset;
+    }
+    .cta_img::after {
+        right: -40px;
+        top: -30px;
+        width: 100px;
+        height: 100px;
+        border: 30px solid #000;
+    }
+    .careerin_2 p {
+        width: unset;
+    }
+    .cta_img {
+        /* width: 100%; */
+        height: unset;
+    }
+    .cta_right {
+        /* width: 100%; */
+        height: unset;
+        padding-left: 52px;
+        /* margin-top: 20px; */
+    }
+    #cta h5 {
+        font-size: 24px;
+        margin-bottom: 20px;
+        width: unset;
+    }
+    .sub_title {
+        margin-bottom: 20px;
+    }
+    .sub_title h6 {
+        font-size: 14px;
+    }
+    #common_banner {
+        height: unset;
+        padding-bottom: 50px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .common_head {
+        font-size: 26px;
+    }
+    .common_sub_head {
+        font-size: 16px;
+        margin-bottom: 14px;
+    }
+    .about_content {
+        width: unset;
+    }
+    .common_paragraph p {
+        font-size: 15px;
+    }
+    .count {
+        font-size: 30px;
+    }
+    #clients ul li {
+        width: 50%;
+        height: 100px;
+    }
+    #hm_about p {
+        font-size: 15px;
+    }
+    .hm_service_left h4 {
+        font-size: 20px;
+    }
+    .hm_service_left span {
+        font-size: 12px;
+    }
+    .common_btn {
+        padding: 8px 20px;
+    }
+    .hm_blog_content h6 {
+        margin-bottom: 18px;
+    }
+    /* #top_nav {
+        display: none;
+    } */
+    .about_p_content {
+        margin-right: 0;
+    }
+    .hm_wrk_title {
+        padding-right: 0px;
+    }
+    .work_updates {
+        width: 220px;
+        height: 220px;
+        margin-right: 0;
+    }
+    .circle {
+        width: 220px;
+        height: 220px;
+        display: none;
+    }
+    .hm_about_top .col-lg-5 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .hm_service_left h6 {
+        font-size: 14px;
+    }
+    .cd-nav-trigger {
+        display: none;
+    }
+    .whatsapp {
+        width: 30px;
+        height: 30px;
+        font-size: 18px;
+    }
+    .phone {
+        width: 30px;
+        height: 30px;
+        font-size: 18px;
+    }
+    .fixed_icons {
+        right: 15px;
+    }
+    .hide_btn{
+        display: none;
+    }
+    .mobile_btn{
+        display: flex;
+        width: fit-content;
+      }
+      .hm_wrk_title h6 {
+        font-size: 18px;
+    }
+    .portfolio_details ul li {
+        width: 100%;
+    }
+    .service_top_content {
+        width: unset;
+        height: unset;
+    }
+    .service_top_image {
+        width: 100%;
+        float: right;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .image {
+        min-width: 260px;
+        min-height: 260px;
+        margin-top: 20px;
+    }
+    .faq .accordion-button {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .blog_list ul li {
+        display: block;
+    }
+    .blog_title {
+        width: unset;
+    }
+    .blog_content {
+        width: unset;
+        padding: 0;
+    }
+    .blog_image {
+        width: unset;
+        height: unset;
+    }
+    .blog_detail .common_heading {
+        width: unset;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	    .hm_clients ul li {
+        width: 25%;
+        float: left;
+        border: 1px solid #ffffff0a;
+    }
+	.hm_client_logo img {
+    width: 100px !important;
+}
+    .hm_wrk_title .btn2 {
+        display: none;
+    }
+    .cd-nav-trigger{
+        display: none;
+    }
+    .get_quote {
+        display: flex;
+    }
+    .active a {
+        border: 0!important;
+        color: #00A2FA!important;
+    }
+    .popup{
+        display: none;
+    }
+    .hm_wrk_title h6 {
+        font-size: 18px;
+    }
+    .btn2 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .hm_wrk_title {
+        padding-right: 0;
+    }
+    .dark_btn {
+        display: none;
+    }
+    .view_btn {
+        display: flex;
+    }
+    .hm_about_wrap {
+        width: unset;
+    }
+    .circle{
+        display: none;
+    }
+    .work_updates {
+        width: 250px;
+        height: 250px;
+        margin-right: 0;
+    }
+    .counts h3 {
+        font-size: 50px;
+    }
+    .common_heading {
+        font-size: 28px;
+    }
+    .hm_wrk_img {
+        height: 250px;
+    }
+    .hm_blog_content {
+        margin-bottom: 22px;
+    }
+    #cta h5 {
+        font-size: 30px;
+        width: unset;
+    }
+    .cta_img {
+        height: 180px;
+    }
+    .cta_right {
+        height: 180px;
+        padding-left: 30px;
+    }
+    .sub_title h6 {
+        font-size: 12px;
+    }
+    .sub_title {
+        padding: 10px 20px;
+        margin-bottom: 20px;
+    }
+    .cta_img::after {
+        right: -50px;
+        top: -30px;
+        width: 100px;
+        height: 100px;
+        border: 30px solid #000;
+    }
+    #main_menu{
+        display: none;
+    }
+    .main_heading {
+        font-size: 44px;
+        width: 530px;
+    }
+    .introduction {
+        width: unset;
+    }
+    .introduction h6 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .common_head {
+        font-size: 32px;
+        margin-top: 20px;
+    }
+    #counter li {
+        width: 33.3%;
+        border: 1px solid #ffffff0f;
+        text-align: center;
+        padding: 20px 10px;
+    }
+    .counts span {
+        font-size: 16px;
+    }
+    .count {
+        font-size: 40px;
+    }
+    #clients ul li {
+        height: 100px;
+        width: 31%;
+    }
+    #clients ul li img {
+        max-width: 150px;
+        max-height: 150px;
+    }
+    .crantia_text {
+        font-size: 160px;
+        bottom: -200px;
+    }
+    .contact_form {
+        margin-left: 0;
+    }
+    .contact_image {
+        height: 200px;
+        margin-bottom: 20px;
+    }
+    .contact_form h6 {
+        width: 380px;
+    }
+    .common_heading {
+        line-height: 36px;
+    }
+    .contact_address {
+        height: 150px;
+        margin: 10px 0px;
+    }
+    #s_work .hm_wrk_img {
+        height: unset;
+    }
+    #testimonials h6 {
+        margin-bottom: 50px;
+    }
+    .image {
+        width: 310px;
+        height: 310px;
+    }
+    .ts_img img {
+        width: 100px;
+    }
+    .faq .accordion-button {
+        font-size: 15px;
+    }
+    .accordion-button::after {
+        width: 20px;
+        height: 20px;
+    }
+    .service_left{
+        display: none;
+    }
+    .about_content {
+        width: unset;
+    }
+    .service_sec {
+        width: unset;
+    }
+    #career_accordian {
+        width: unset;
+    }
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .work_updates {
+        width: 280px;
+        height: 280px;
+    }
+    .circle {
+        width: 280px;
+        height: 280px;
+    }
+    .counts h3 {
+        font-size: 60px;
+    }
+    .counts span {
+        font-size: 16px;
+    }
+}
+
+
+
+@media (min-width: 1600px) {
+	.banner_caption {
+		padding-top: 20%;
+	}
+    .cta_right {
+        height: 390px;
+    }
+    .cta_img {
+        height: 390px;
+    }
+    .container{
+        max-width: 1600px;
+    }
+    .main_heading {
+        font-size: 74px;
+        width: 970px;
+    }
+    .common_btn span {
+        font-size: 18px;
+    }
+    .crantia_text {
+        font-size: 320px;
+        bottom: -350px;
+    }
+    .service_list_wrap {
+        padding: 40px;
+    }
+    .portfolio_banner .about_img {
+        height: 630px;
+    }
+    .hm_wrk_img {
+      height: 470px;
+    }
+    #s_work .hm_wrk_img {
+        height: 470px;
+    }
+    .common_head2 {
+        width: 750px;
+    }
+    .blog_image {
+        height: 280px;
+    }
+    h2.crantia_text2 {
+        font-size: 320px;
+        bottom: -50px;
+    }
+	.service_list_wrap {
+		height:280px;
+	}
+	
+}
+
+
